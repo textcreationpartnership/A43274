@@ -1,0 +1,683 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hellish murder committed by a French midwife on the body of her husband, Jan. 27, 1687/8 for which she was arraigned at the Old-Baily, Feb. 22, 1687/8, and pleaded guilty and the day following received sentence to be burnt.</title>
+            <author>Hobry, Marie, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43274</idno>
+            <idno type="STC">Wing H1384</idno>
+            <idno type="STC">ESTC R34455</idno>
+            <idno type="EEBO-CITATION">14444250</idno>
+            <idno type="OCLC">ocm 14444250</idno>
+            <idno type="VID">102351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1060:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hellish murder committed by a French midwife on the body of her husband, Jan. 27, 1687/8 for which she was arraigned at the Old-Baily, Feb. 22, 1687/8, and pleaded guilty and the day following received sentence to be burnt.</title>
+                  <author>Hobry, Marie, d. 1688.</author>
+               </titleStmt>
+               <extent>[4], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Sare ... and published by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hobry, Denis, d. 1688.</term>
+               <term>Trials (Murder) --  England.</term>
+               <term>Murder.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102351:1"/>
+            <pb facs="tcp:102351:1" rendition="simple:additions"/>
+            <p>A Helliſh Murder Committed by a <hi>French Midwife,</hi> On the Body of her HUSBAND, <hi>Jan.</hi> 27. 1687/8.</p>
+            <p>For which ſhe was Arraigned at the <hi>Old-Baily, Feb.</hi> 22. 1687/8. and Pleaded <hi>G<g ref="char:V">Ʋ</g>ILTY.</hi>
+            </p>
+            <p>And the Day following received Sentence to be BURNT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Sare,</hi> at <hi>Grays-Inn-Gate,</hi> and publiſhed by <hi>Randal Taylor,</hi> near <hi>Stationers-hall.</hi> 1688.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:102351:2"/>
+            <pb facs="tcp:102351:2" rendition="simple:additions"/>
+            <head>Introduction.</head>
+            <p>THE late Barbarous Murder of <hi>Denis Hobry,</hi> (what with <hi>Malice, Prejudice, Credulity</hi> and <hi>Miſtake</hi>) has put more Freaks and Crotchets into the Heads and Minds of the Common People, then any Story of that ſize perhaps ever did in this World before: But as <hi>Fancy, Error</hi> and <hi>In<g ref="char:EOLhyphen"/>vention,</hi> have <hi>No Bounds</hi> in the matter of <hi>Number</hi> and <hi>Va<g ref="char:EOLhyphen"/>riety,</hi> ſo with a reſpect to the <hi>Quality</hi> of Theſe Extravagan<g ref="char:EOLhyphen"/>cies, it would be no leſs Frivolous, on the <hi>Other</hi> ſide, to Encoun<g ref="char:EOLhyphen"/>ter the <hi>Paſſions,</hi> and the <hi>Dreams</hi> of the <hi>Multitude</hi> with Forma<g ref="char:EOLhyphen"/>lities of <hi>Councel</hi> and <hi>Reaſon:</hi> for the Exceptions are too <hi>Many</hi> to be taken <hi>Severally</hi> to pieces, and they are too <hi>Trivial</hi> (even all together) to be worth the while of a <hi>Serious Thought.</hi> And yet how <hi>Vain,</hi> and how <hi>Impoſſible</hi> ſoever, a Full, and a Diſtinct <hi>Anſwer</hi> to ſo many Spiteful and Groundleſs <hi>Shams</hi> and <hi>Miſun<g ref="char:EOLhyphen"/>derſtandings,</hi> may appear to be; there is ſomething yet to be done, methinks; (though but in a Complement to <hi>Common Cu<g ref="char:EOLhyphen"/>rioſity</hi> and <hi>Satisfaction</hi>) and the ſhorteſt way of clearing all Difficulties, will be to Publiſh to the World a <hi>Plain</hi> and a <hi>Naked Narrative</hi> of this whole Affair; as it is Delivered, and ſet forth in the <hi>Enformations Themſelves,</hi> that have been given in <hi>Evidence</hi> upon <hi>This Cauſe;</hi> which I can the better undertake, for, in regard that they have all paſs'd through <hi>My Hands.</hi> This Courſe will ſettle all People <hi>Right,</hi> that have a <hi>Mind</hi> to be ſet <hi>Right;</hi> and there's no better way in Nature to Rectify the <hi>Miſ<g ref="char:EOLhyphen"/>apprehenſions</hi> of Things, than by ſetting forth Matter of <hi>Fact</hi> juſt as it <hi>WAS;</hi> which at the ſame time, ſerves to <hi>Prove un<g ref="char:EOLhyphen"/>anſwerably how it was NOT.</hi> Only a word or two of Intro<g ref="char:EOLhyphen"/>duction by the way.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon the firſt Rumour of this Horrible <hi>Murder,</hi> there were <hi>Two Journey-men Joyners taken up,</hi> and <hi>Committed,</hi> upon
+<pb facs="tcp:102351:3"/> 
+               <hi>Suſpicion</hi> of having <hi>laid</hi> the <hi>Body</hi> where 'twas <hi>found;</hi> but they prov'd themſelves upon Enquiry, to be very Honeſt Men. 'Tis true <hi>They paſſed that way; They were ſeen thereabouts; Witneſſes Examin'd:</hi> and <hi>Unhappy Circumſtances</hi> enow for a Ground of <hi>Jealouſie:</hi> But afterwards, upon the <hi>Seizure</hi> of the <hi>Midwife,</hi> and <hi>unqueſtionable Proofs</hi> againſt her, (beſide her <hi>Own</hi> and her <hi>Sons Confeſſion</hi>) the <hi>Coroners Inqueſt Met,</hi> according to an <hi>Adjournment,</hi> and ſat upon the <hi>Body, Feb. 8. 1687.</hi> where they <hi>acquitted Mary Potron,</hi> and the <hi>Two Joyners;</hi> but <hi>Mary Hobry</hi> (the Midwife) was found <hi>Guilty</hi> of the <hi>Murder</hi> of <hi>Denis Hobry,</hi> as <hi>Principal;</hi> and <hi>John Deſermeau</hi> (the Mid<g ref="char:EOLhyphen"/>wifes Son) was found <hi>Acceſſary after the Fact.</hi>
+            </p>
+            <p>At <hi>Hicks-Hall, Mary Hobry</hi> had a Bill found againſt her, <hi>Feb. 22. 1687.</hi> for <hi>Petty-Treaſon</hi> and <hi>Murder,</hi> as <hi>Principal;</hi> and on her <hi>Arraignment</hi> the ſame Day at the <hi>Old Baily,</hi> ſhe <hi>Pleaded GUILTY;</hi> but the Court with all poſſible Tenderneſs, let her know the Danger and the <hi>Conſequence</hi> of her <hi>Confeſſion,</hi> and offer'd her yet the Liberty to <hi>Depart</hi> from her <hi>Plea,</hi> and take her <hi>Tryal,</hi> if ſhe thought fit; but ſhe ſtill Perſiſted in her <hi>Confeſſion.</hi>
+            </p>
+            <p>There was, after this, <hi>Another Bill found</hi> at <hi>Hicks-Hall</hi> on the ſame Day, againſt <hi>Denis Favet,</hi> and <hi>John Favet, French<g ref="char:EOLhyphen"/>men,</hi> and <hi>Brothers</hi>) as <hi>Acceſſories before and after the Fact;</hi> and likewiſe againſt <hi>John Deſermeau</hi> (the Son of the ſaid Mid<g ref="char:EOLhyphen"/>wife) as <hi>Acceſſory after the Fact.</hi>
+            </p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon their Tryal at the <hi>Old-Baily,</hi> they were All found <hi>NOT GUILTY:</hi> But the Matter had ſuch a Face how<g ref="char:EOLhyphen"/>ever, that the Court thought fit to put the <hi>Two Brothers</hi> to find <hi>Sureties</hi> for their <hi>Good Behaviour.</hi>
+            </p>
+            <p>The Womans <hi>Confeſſion</hi> has Prevented the <hi>Publick Notifica<g ref="char:EOLhyphen"/>tion</hi> of the Foulneſs of the Cauſe, that would otherwiſe have been made, by a <hi>Printed Account</hi> of the <hi>Tryal:</hi> So that it remains only to ſupply that <hi>Diſappointment</hi> by <hi>True Copies</hi> of the <hi>Fol<g ref="char:EOLhyphen"/>lowing Enformations,</hi> which would have been the <hi>Foundation</hi> at <hi>laſt</hi> (in caſe ſhe had put her ſelf upon her <hi>Defence</hi>) for the <hi>Court</hi> to <hi>Proceed upon.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="documents">
+            <pb n="1" facs="tcp:102351:3" rendition="simple:additions"/>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>James Richards</hi> of the Pariſh of St. <hi>Margarets Weſtminſter, Victualler,</hi> taken upon Oath, <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>SAITH, That this Enformant being in Company about Four or Five a Clock in the Afternoon, Yeſter<g ref="char:EOLhyphen"/>day, with Mr. <hi>Yard,</hi> and another Perſon; there was a Diſcourſe about the Dead Body that was lately found; wherereupon Mr. <hi>Yard</hi> was ſaying, that there was a Friend of his miſſing, and that he was affraid, <hi>This was the Man;</hi> having heard his Wife Often ſay, that <hi>ſhe would Murther him,</hi> or <hi>Diſpatch him,</hi> or to that Effect. This Enformant there<g ref="char:EOLhyphen"/>upon putting it to the ſaid <hi>Mr. Yard,</hi> if he could make good what he ſaid; Whoſe Anſwer was, that he could make it good; Upon which, this Enformant advis'd the getting of an Officer to Apprehend the Woman; The Third Perſon Anſwering, that to Morrow-morning would be time e<g ref="char:EOLhyphen"/>nough. But this Enformant ſaid, it was a Caſe would bear no Delay, and that therefore he was reſolv'd to Enform with all ſpeed; to which they Agreed: And this Enformant going then out of the Room, <hi>Mr. Yard</hi> follow'd, and told this Enformant, that <hi>the Thing was too true, and that the ſaid Woman had told him as much;</hi> but Promiſed within ſome few Days to tell him more. Upon this, the Enformant got a Conſtable, and went as an Aſſiſtant to the Apprehending of the Woman, whom they found at a Houſe in <hi>Phaenix-Alley,</hi> and ſo ſhe was taken into Cuſtody, and Committed.</p>
+               <closer>
+                  <signed>James Richards</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Roger L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="2" facs="tcp:102351:4"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Philip Yard</hi> of St. <hi>Martins in the Fields,</hi> Cook, taken up<g ref="char:EOLhyphen"/>on Oath, <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>SAith, That this Enformant becoming known to the Fa<g ref="char:EOLhyphen"/>mily, and to the Perſon of <hi>Dennis Hobry</hi> in <hi>Paris,</hi> ma<g ref="char:EOLhyphen"/>ny Years ſince; and having of late been ſeveral times in his Company here in <hi>England,</hi> where his Wife (a Midwife) was preſent, became alſo known to the ſaid Midwife, whom this Enformant hath heard within the Compaſs of <hi>Two Months laſt paſt</hi> (ſpeaking upon a modeſt Recollection of his Memory) menacing and reviling the ſaid <hi>Dennis Hobry</hi> more then <hi>Forty ſeveral times,</hi> Calling him <hi>Dog, Drunken Villain,</hi> and other the Fowleſt Words of Reproche; And ſaying over and over upon ſeveral Occaſions, <hi>I muſt kill him, and will kill him, though I be Hang'd for 't,</hi> ſpeaking the Words in <hi>French, C'eſt un Chien; C'eſt un Yvrogne,</hi> &amp;c. <hi>Il faut que Je le Tue, quoy que Je devrois eſtre pendue.</hi>
+               </p>
+               <p>And ſaith particularly, That upon <hi>Thurſday in the laſt Week,</hi> about <hi>Two or Three a Clock in the Afternoon,</hi> being at the Houſe where her Daughter Lodges, ſhe the ſaid Mid<g ref="char:EOLhyphen"/>wife took occaſion to fall into a Violent Paſſion againſt her Husband, and brake out into Paſſions of Threatning to <hi>Kill</hi> him, in manner as above recited.</p>
+               <p>And ſaith, That on the Day mentioned in the Paragraph next above, the Wife of <hi>Hobry,</hi> breaking into Violences of Diſcourſe as aboveſaid, deſired this Enformant to take <hi>No Notice of any thing ſhe had ſaid, whatever ſhould happen.</hi> This Enformant demanding, what ſhe meant by that Thing that he was not to take Notice of: She reply'd, of her calling her Husband <hi>Ill Names,</hi> and the like.</p>
+               <p>And ſaith, That Three or four days after what is above-ſaid, this Enformant went to the Lodgings of the ſaid <hi>Hobry,</hi> and Ask'd where he was; they made Anſwer, they had not
+<pb n="3" facs="tcp:102351:4" rendition="simple:additions"/> ſeen him for ſeveral Days. This Enformant reflecting at that Time upon the Bloudy Menaces of this Woman to<g ref="char:EOLhyphen"/>ward her Husband, of the <hi>Thurſday before;</hi> And that this Enformant could hear no Tydings of the ſaid <hi>Hobry</hi> among All his Acquaintance; This Enformant had an Apprehenſion within himſelf, that ſhe might have done him a Miſchief.</p>
+               <p>On <hi>Wedneſday Morning,</hi> being the <hi>Next Day,</hi> this Enfor<g ref="char:EOLhyphen"/>mant went again to the Lodging of the ſaid <hi>Hobry,</hi> to Enquire after him, and hearing no News of him yet, this Enformant Advis'd them to open the Door, for fear he might have carry'd ſome of the Goods into <hi>France.</hi> But the People of the Houſe would not open the Door, becauſe the Midwife that Lodg'd there had the Key.</p>
+               <p>This Enformant went the ſame Day to the Lodgings of the ſaid Midwife's Daughter, where the Mother there wait<g ref="char:EOLhyphen"/>ed for an Opportunity of ſpeaking with her in Private, and took the Occaſion at laſt to go out of the Lodgings with her; and walking in the Street. This Enformant ſaid after this manner to the ſaid Midwife, <hi>Heark ye; You ſpoke dangerous Words t'other day concerning what you'd do to your Husband; Have you done as you ſaid you would? For the Peo<g ref="char:EOLhyphen"/>ple have been looking every where after him, and there's no ſuch Man to be found: I hope 'tis not the mangled Body that they talk of to be murther'd. No</hi> (ſays ſhe) <hi>'tis not that</hi> Body. This Enformant ſaid further to her, <hi>Why, how could you go to Work to Diſpatch a Man that you are not able to Grapple with? Oh,</hi> (ſays the Woman) <hi>he put me hard to't: but I won't tell you to day; 'tis not a thing to be talk'd off in the Street:</hi> This Enfor<g ref="char:EOLhyphen"/>mant replying, <hi>Why, We ſpeak</hi> French; <hi>No body underſtands us. Well!</hi> (ſays ſhe) <hi>Let it alone for Five or Six Days, and I'le tell you.</hi> This Enformant preſſing her again to tell him, till ſhe Swore ſhe would not.</p>
+               <pb n="4" facs="tcp:102351:5"/>
+               <p>And ſaith, That the ſaid Midwife going toward <hi>Phoenix-Alley</hi> in <hi>Long-Acre,</hi> where this Enformant left her, ſhe the ſaid Midwife ſaid to this Enformant in <hi>French, Bouche Clos;</hi> or in <hi>Engliſh, Not a Word.</hi>
+               </p>
+               <closer>
+                  <signed>Philip Yard.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Roger L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Julian Coze,</hi> of the Pariſh of St. <hi>Annes Weſtminſter, Gardner,</hi> taken upon Oath, <hi>Feb. 9. 1687/8.</hi>
+               </head>
+               <p>SAith, That being in Company upon <hi>Thurſday</hi> Laſt in the Evening with one <hi>Yard</hi> a <hi>French-man,</hi> he the ſaid <hi>Yard</hi> told this Enformant, that <hi>he would never ſee the</hi> Pariſian <hi>more,</hi> (ſpeaking of <hi>Dennis Hobry.</hi>) This Enformant asking him, <hi>What made him ſay ſo?</hi> To whom <hi>Yard</hi> replyed, that <hi>Hobry</hi>'s <hi>Wife had told him as much:</hi> Whereupon this Enformant reflecting upon the manner of ſpeaking, and upon <hi>Hobry</hi>'s being from his Houſe for ſome time, and no News of him, He this Enfor<g ref="char:EOLhyphen"/>mant propos'd the charging of a Conſtable with her, which was done that Night accordingly; and this Enformant was Aſſiſtant to the Seiſure of the ſaid Mrs. <hi>Hobry.</hi>
+               </p>
+               <closer>
+                  <signed>Julian Coze.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Roger L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="5" facs="tcp:102351:5"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Henry Fuller,</hi> of St. <hi>Margarets Weſtminſter,</hi> taken upon Oath <hi>Feb. 17. 1687/8.</hi>
+               </head>
+               <p>SAith, That being told by <hi>James Richards</hi> a <hi>Victualler,</hi> in <hi>Long-Ditch,</hi> that there were <hi>Two Frenchmen</hi> at the ſaid <hi>Richard's</hi> Houſe, that were ſpeaking ſomething about the <hi>Murther'd Body,</hi> and that one of them ſaid, <hi>the Woman, ſuſpected for the Murther, had as good as Own'd it;</hi> This Enformant being in the Office of a Conſtable, agreed with the ſaid <hi>Richards</hi> to go to the Lodgings of the ſaid Woman, and Apprehended her upon the Suſpicion: Where<g ref="char:EOLhyphen"/>upon, <hi>This Enformant,</hi> and the ſaid <hi>Richards,</hi> taking one <hi>Philip Yard</hi> along with them, and another Perſon then in the Company, went to the Houſe where the ſaid Woman Lodg'd, but miſſing her at Home, went according to Di<g ref="char:EOLhyphen"/>rection to the <hi>Laſt</hi> in <hi>Phaenix-Alley,</hi> where they took her in<g ref="char:EOLhyphen"/>to Cuſtody. This being betwixt Eleven and Twelve at Night, upon the <hi>Second</hi> of this Inſtant <hi>February:</hi> And not finding a Juſtice of Peace up, Deliver'd her up to the <hi>Gate-Houſe</hi> 'till next Morning.</p>
+               <closer>
+                  <signed>Hen. Fuller.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Roger L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <head>The Enformation of <hi>Chriſtopher Auſtin,</hi> of St. <hi>Pauls Covent-garden,</hi> Shoe-maker, taken upon Oath, <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>SAith, That being the Servant of <hi>John Yzember,</hi> (or ſome ſuch Name) a Shoe-maker living at the <hi>Golden Shooe</hi> in <hi>Phae<g ref="char:EOLhyphen"/>nix-Alley,
+<pb n="6" facs="tcp:102351:6"/> Long-Acre;</hi> the Miſtreſs of this Enformant being ready to fall in Labour, ſent her Prentice <hi>Richard</hi> to a <hi>French Midwife,</hi> living in <hi>Caſtle-ſtreet,</hi> to come and Aſſiſt her: the ſaid <hi>French Midwife</hi> coming to the Miſtreſs of this Enformant, and ſhe not preſently falling in Labour as ſhe expected, ſhe deſir'd the Midwife to ſtay that Night with her, for ſhe did not know how things might fall out. The Midwife ſtaid accordingly, and went away the next mor<g ref="char:EOLhyphen"/>ning; this was ſome Day laſt Week, but this Enformant doth not remember what part of the Week. The Midwife aforeſaid came ſeveral times after this, to enquire how it was with this Enformants Miſtreſs; and particularly, came <hi>Laſt Night</hi> to the Houſe, and Supp'd there, and deſir'd to Lodge there, becauſe ſhe did not know what Occaſion there might be for her: This Enformants Miſtreſs agreeing that ſhe ſhould be there that Night: The Midwife went accord<g ref="char:EOLhyphen"/>ingly to Bed toward <hi>Eleven a Clock.</hi> There came a Conſtable to the Door, juſt about the Watch, crying <hi>Eleven;</hi> when <hi>Richard,</hi> this Enformants Fellow-Prentice, Ask'd <hi>Who was there?</hi> To which, no Anſwer being return'd, this Enformant call'd again and again, <hi>Who's there? If you do not Anſwer, you ſhall not come in.</hi> Upon this a <hi>French-man</hi> ask'd in <hi>Engliſh,</hi> if <hi>Madame,</hi> meaning the Midwife, <hi>was within?</hi> but this Enformant doth not re<g ref="char:EOLhyphen"/>member the Name. Upon this, the ſaid <hi>Richard</hi> above-ſpoken of, ſpake in <hi>French</hi> to the <hi>French Midwife,</hi> and told her, that ſomebody call'd for her to go to a Womans La<g ref="char:EOLhyphen"/>bour; whereupon the Midwife went up to this Enformants Miſtreſs to fetch the Keys: So this Enformants Miſtreſs went down along with the Midwife, the ſaid Midwife deſiring that <hi>Richard</hi> might go along with her, and carry a Light. Upon this, the Boy got up, and the Midwife opened the Door, a <hi>French-man</hi> entering firſt, and bidding the Conſta<g ref="char:EOLhyphen"/>ble come in; who, upon coming in, ſhew'd his Staff, the Midwife ſeeming Surpriz'd. Hereupon, one of the <hi>French</hi>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>'d the <hi>Midwife, Where her Husband was?</hi> who An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that <hi>ſhe left him in Bed laſt Thurſday;</hi> the <hi>French-man</hi>
+                  <pb n="7" facs="tcp:102351:6"/> Anſwering, that <hi>if ſhe left him in Bed, it was with his Arms and Legs cut off:</hi> The <hi>Midwife,</hi> upon theſe Words, deliver'd up her ſelf before they layd Hands of her, and Deſir'd them to make No Noiſe, but to go Civilly along with her. This Enformants Miſtreſs Then did bid <hi>Richard</hi> ask <hi>what the Matter was?</hi> To which, a <hi>Frenchman</hi> made Anſwer, that he would ſwear, that ſhe walk'd up and down the Room when ſhe had Cut off one Limb, and then Cut off the reſt in her own Bed. Upon giving an account hereof to this Enformants Miſtriſs, the Conſtable Commanded the <hi>Frenchman</hi> Laſt above mention'd to Aſſiſt in Carrying her away; This Enformants Miſtreſs giving order for a Piece of Link to Light them along. And upon Diſcourſe among them, the <hi>Frenchman</hi> that Spake of what he could ſwear, told the Midwife that he was taken upon Suſpicion, and that if he were Call'd, he muſt <hi>Impeach</hi> her, and tell the <hi>Truth:</hi> The aboveſaid <hi>Richard,</hi> ſpeaking to This Enfor<g ref="char:EOLhyphen"/>mant of ſome <hi>Bloud</hi> in the <hi>Bed,</hi> by which it was diſco<g ref="char:EOLhyphen"/>ver'd.</p>
+               <p>And ſaith, That the Prentice, <hi>Richard</hi> before ſpoken of, ſaid to This Enformant, That This Murther if'twere Twen<g ref="char:EOLhyphen"/>ty Year would be found out at Laſt, and This in the Hear<g ref="char:EOLhyphen"/>ing of the Midwife, who made No Anſwer. And the ſaid <hi>Richard</hi> told This Enformant further; That his Maſter ſay<g ref="char:EOLhyphen"/>ing in the Hearing of the Midwife, that if he knew who it was that did it, he would be the firſt that ſhould tell on't, adding that he never heard of ſuch a thing in his Days; Hereupon the Midwife ſaid, <hi>ſhe ſaw the Limbs brought from the</hi> Savoy <hi>in a Sack.</hi>
+               </p>
+               <p>This Enformants Miſtreſs upon the hearing of the Story gave Hard words to the Midwife, and call'd her <hi>Villaine,</hi> ſaying if ſhe had Imagin'd ſuch a Thing ſhe ſhould never have come within her Doors.</p>
+               <pb n="8" facs="tcp:102351:7"/>
+               <p>And moreover, that the Prentice abovemention'd, told This Enformant that he Heard the ſaid <hi>Frenchman</hi> ſay, that ſhe had formerly Threatn'd to kill her Husband.</p>
+               <closer>
+                  <signed>The Mark of C Chriſt. Auſten.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict' Coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Richard Kirkham</hi> Servant to <hi>John Yzember,</hi> Shoemaker of the Pariſh of <hi>Covent Garden,</hi> Ta<g ref="char:EOLhyphen"/>ken upon Oath, <hi>Feb. 1687/8.</hi>
+               </head>
+               <p>SAith, That a <hi>French Midwife</hi> paſſing by the Name of <hi>Madam Deſermeau,</hi> came Laſt Night to the Houſe of This Enformants Maſter, ſtayd Supper there, and was to have Lodg'd there; and That This Enformant heard his Miſtreſs ſay, That the ſaid Midwife deſir'd ſhe might ſtay there All Night; being Under ſome Diſappointment at home.</p>
+               <p>When the Key of the Street-Door was Taken out, and About the Hour of Eleven, there was a knocking at the Door; And an Enquiry after a <hi>French Midwife,</hi> Naming the Perſon; and This Enformant ſaid ſhe was There: And upon Further Diſcourſe, the Perſon at the Door ſaid he came from one Mrs. <hi>Richards</hi> in <hi>Shandois Street.</hi> The <hi>French</hi> Woman Scrupled at going to Strangers; but how<g ref="char:EOLhyphen"/>ever ſhe would Fetch the Key; And being come down, and one of the Perſons that knocked being let into the Houſe, the <hi>French Midwife</hi> would have had this Enformant to go before, to ſee what was the matter. This Enformant went to the Door then, with one <hi>Richards,</hi> being one of thoſe that knocked at the Door, who immediately made a
+<pb n="9" facs="tcp:102351:7"/> 
+                  <hi>Sign,</hi> and a Conſtable and two others came in; and upon their Entry, One ask'd, <hi>which it was?</hi> To which, a <hi>French-man,</hi> one <hi>Yard,</hi> replyed, <hi>This is the Woman,</hi> pointing to the Perſon: Whereupon the Conſtable ſhew'd his Staff, and took her into Cuſtody. This Enformants Miſtreſs being Frighted at this, Ask'd <hi>What the matter was?</hi> To which the Midwife replyed, <hi>Quelque Drollerie:</hi> Or in <hi>Engliſh, Some little Waggery.</hi> This Enformant's Miſtreſs preſſing more and more to know the Bus'neſs: And ſome body asking the Midwife <hi>Where her Husband was?</hi> She made Anſwer, that <hi>ſhe had not ſeen him ſince the</hi> Thurſday <hi>before, when ſhe left him in</hi> Bed. And being asked, <hi>If ſhe had not ſeen him ſince?</hi> She ſaid, <hi>No:</hi> and, in <hi>French,</hi> that he was a Vagabond, and ſhe knew nothing of his ways, or to that Effect. It was Reply'd, <hi>She muſt find him out:</hi> And her Anſwer was, <hi>How ſhould ſhe find him out, that did not ſee him once in ſix Months?</hi> One of the <hi>French-men</hi> made Anſwer, <hi>that he would be found:</hi> This Enformants Miſtreſs asking thereupon, (as miſtruſting the Bus'neſs) <hi>Where he was, or what was become of him?</hi> Some One of the <hi>French-men</hi> replying, that <hi>he was dead, and cut in pieces;</hi> and that <hi>by her own Hands, in her own Room, and in her own Bed.</hi> This Enformants Miſtreſs ſpeaking furiouſly to her, <hi>Traitreſſe! Que vous ayez Commi<g ref="char:EOLhyphen"/>ſe une Crime ſi Noire! Traitreſs that thou art, to be Guilty of ſo black a Crime! No, Madam,</hi> (ſays ſhe) <hi>I am Innocent;</hi> And ſo they Carry'd her away; and at Parting, <hi>Well,</hi> (ſaid this Enformant's Miſtreſs) <hi>I believe I ſhall never ſee you more.</hi>
+               </p>
+               <closer>
+                  <signed>The Mark of R <hi>Rich. Kirkham.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="10" facs="tcp:102351:8"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>John Izember,</hi> of the Pariſh of St. <hi>Pauls Covent-Gar<g ref="char:EOLhyphen"/>den,</hi> taken upon Oath, <hi>February 3. 1687/8.</hi>
+               </head>
+               <p>SAith, That this Enformant hath known a <hi>French Midwife,</hi> by the Name (to the beſt of this Enformants memo<g ref="char:EOLhyphen"/>ry) of <hi>Deſermeau,</hi> for about five years laſt paſt, ſhe having laid this Enformants Wife of ſeveral Children.</p>
+               <p>And ſaith, that about Ten or Twelve Days ſince, the Wife of this Enformant ſent for the ſaid Midwife, being, as ſhe thought, ready to fall in Labour. The Midwife came accordingly, and the Wife of this Enformant deſired her to ſtay all Night, to ſee the Event of that Illneſs: She ſtay'd, but the next morning this Enformant's Wife finding her ſelf better, the Midwife went away, but came day by day after<g ref="char:EOLhyphen"/>ward to Enquire how 'twas with her.</p>
+               <p>And ſaith, That the ſaid Midwife came Laſt Night to the Houſe of this Enformant, ſaying, that ſhe did not care for lying at home that Night; and ſo ſhe Supp'd with this En<g ref="char:EOLhyphen"/>formant, whoſe Wife told him, that ſhe had agreed ſhe ſhould Lodge there that Night. About Eleven a Clock, the Midwife came up to this Enformants Wife, and ask'd her for the Key of the Houſe; ſaying, that there was ſome body knock'd to call her to a Womans Labour; but ſhe did not know the Voice, and had a mind to ſee who it was: This Enformants Wife thereupon going down with her to open the Door. After which, this Enformants
+<pb n="11" facs="tcp:102351:8"/> Wife told this Enformant, that the Midwife ſaid I do not care to go Alone with that Man, (ſpeaking of one of the Company) Pray let your Servant go along with me. Upon this, a <hi>French-man</hi> that was already Enter'd the Houſe, call'd in the Conſtable. And this Enformant, upon the Subject matter of this Clauſe, refers himſelf to the Teſtimony of his Wife, from whom this Enformant had the Relation.</p>
+               <closer>
+                  <signed>Jean Izember.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Mary,</hi> the Wife of <hi>To<g ref="char:EOLhyphen"/>bias Hope,</hi> of the Pariſh of St. <hi>Martins</hi> in the Fields, Sawyer, taken upon Oath, <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>SAith, That a <hi>French</hi> Midwife, of whoſe Name this Enfor<g ref="char:EOLhyphen"/>mant cannot give a perfect Account, Lodg'd in the Houſe of this Enformant for about Three Months laſt paſt; And that within the Compaſs of that time, (but the preciſe time uncertain) a Perſon that the ſaid Midwife ſaid was her Husband, came and Lodg'd with her, and went (as this Enformant was told) into <hi>France,</hi> about a Month or Six Weeks ſince, (to this Enformants beſt memory;) And that he return'd again to the Houſe of this Enformant about Three Weeks ſince; and that this Enformant hath not taken
+<pb n="12" facs="tcp:102351:9"/> Notice of his Lodging in the Houſe for about Ten or Twelve Days ſince.</p>
+               <p>But that ſome time laſt Week, this Enformant Ask'd the ſaid Midwife how it came to paſs that he did not Lodge in the Houſe, and where he was? The Midwife's Daughter, in the Preſence of the Mother, telling this Enformant, that he heard there was a Warrant out againſt him, and he durſt not come; ſaying further, that <hi>he was to go with a Lord into</hi> New England <hi>for Three Years:</hi> And the Daughter ſaying, that <hi>her Husband did Work for that Lord,</hi> and that her Husband would give the ſaid Midwife's Husband <hi>Thirty Shillings</hi> to Cloath him, and 'twould be a good Riddance of him. The Daughter Adding, that the Mother ſhould keep out of the Way till he was gone. And the Mother likewiſe came <hi>Yeſterday morning</hi> to the Houſe of this Enfor<g ref="char:EOLhyphen"/>mant, and ſaid, that <hi>Now he was gone, for which ſhe was Glad with all her Heart, and that ſhe came now to Lodge there again.</hi>
+               </p>
+               <p>And ſaith, That the Midwife and her Daughter came to this Enformants Houſe upon <hi>Laſt Tueſday morning,</hi> and paid this Enformant Eight Shillings in part of Rent; and the Mother deſir'd this Enformant to let her have a pair of Sheets; but this Enformant put her off 'till Saturday, and ſhe reſted contented.</p>
+               <p>At the Time next above mentioned, this Enformant Ask<g ref="char:EOLhyphen"/>ed the Midwife and her Daughter, whether they had ſeen the murther'd Body? The Midwife replyed, <hi>No, No, ſhe did not love any ſuch Sights.</hi> This Enformant taking No<g ref="char:EOLhyphen"/>tice of a very outragious Quarrel betwixt them, Advis'd the Woman to have a care what ſhe did to her Husband, being affraid it might go further. The Enformant refers
+<pb n="13" facs="tcp:102351:9"/> her ſelf upon the Particulars above, to the beſt of her Memory.</p>
+               <closer>
+                  <signed>The Mark of <hi>Y Mary Hope.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſu<g ref="char:EOLhyphen"/>pradict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <head>The Enformation of <hi>Elizabeth Beech,</hi> the Daughter of <hi>Mary Hope</hi> above-mentioned.</head>
+               <p>THis Enformant ſaith upon Oath, That the whole mat<g ref="char:EOLhyphen"/>ter in the above-written Enformation of her Mo<g ref="char:EOLhyphen"/>ther is true to her Knowledge.</p>
+               <p>And ſaith, that there is a Lock put on to a Back-Door of a Low Room where the Midwife Lodg'd, which had on<g ref="char:EOLhyphen"/>ly a Bolt before; and that this Enformant knew nothing of it till this morning.</p>
+               <closer>
+                  <signed>The mark of E <hi>Elizabeth Beecb.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſupradict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="14" facs="tcp:102351:10"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Maria Anne Rippault</hi> the Wife of <hi>Claude Royer,</hi> of the Pariſh of <hi>St. Giles's in the Fields,</hi> Goldſmith, Taken upon Oath, <hi>Feb. 20. 1687/8.</hi>
+               </head>
+               <p>SAith, That This Enformant was told about a Fortnight or Three Weeks before the Murther of <hi>Hobry</hi> was ſpoken of, that the ſaid <hi>Hobry</hi> was returnd out of <hi>France;</hi> about which time, the reputed Wife of <hi>Hobry,</hi> came to the Lodgings of This Enformant, and Diſcourſed to This Enformant in the Preſence of this Enformants Mother to the Effect following. <hi>Mon Coquin de Mary est encore <g ref="char:V">Ʋ</g>ne fois Revenu de France;</hi> and in <hi>Engliſh, This Rogue My Husband is come back out of</hi> France <hi>again. My Couſins are ſtark mad upon't, but we have Complotted,</hi> or laid our Heads together, <hi>how to get quit of him.</hi> This Enformant replying, <hi>why, what will You do? How will You get quit of him?</hi> the other ma<g ref="char:EOLhyphen"/>king Anſwer, You ſhall hear more of That 'ere it be Long. And ſo ſhe went her way.</p>
+               <p>And This Enformant being Interrogated, if ſhe had had any Diſcourſe formerly with the Wife of <hi>Hobry</hi> concerning the <hi>Couſins</hi> before ſpoken of; ſhe maketh This Anſwer, That the ſaid Wife of <hi>Hobry</hi> having Aſſiſted This Enformant about five or ſix Months ſince, in the Office of a <hi>Midwife;</hi> among other Diſcourſes ſaid to This Enformant to the Pur<g ref="char:EOLhyphen"/>poſe following, <hi>Theſe Couſins of Mine are good Husbands, and Induſtrious Men, and there are enow would Marry them, but we will keep them to our ſelves, for My ſelf and my Daugh<g ref="char:EOLhyphen"/>ter.</hi> (who both of them had Husbands at the ſame time.) This Enformant Asking her <hi>how ſhe could think of Marrying Thoſe Young Fellows to her Self and her Daughter, when they
+<pb n="15" facs="tcp:102351:10"/> had Husbands already?</hi> The Wife of <hi>Hobry</hi> replying, <hi>Oh Never Trouble your ſelf for that: I'ay des ruſes de diable pour nous en defaire;</hi> In <hi>Engliſh, I will find out as many Tricks as the Devil himſelf but wee'le get quit of him.</hi> This Enformant being at that Time Indiſpos'd, doth not recollect any thing further Material in that Diſcourſe.</p>
+               <p>But This Enformant ſaith further, That the Wife of <hi>Ho<g ref="char:EOLhyphen"/>bry</hi> came to This Enformants Lodgings upon <hi>Thurſday next after the finding of the Body,</hi> about four or five a Clock in the Afternoon, with the Younger of the <hi>Two Coſins</hi> before ſpoken of, whoſe Name, as This Enformant remembers, is <hi>Favet:</hi> This Enformant asking the ſaid Woman, <hi>He bien! vous vous eſtes desfaite donc de voſtre Mary;</hi> In <hi>Engliſh, Well! You have got quit of Your Husband then?</hi> The Woman Anſwer'd <hi>Ouy:</hi> and the <hi>Yong Favet</hi> (or <hi>Coſin</hi>) ſtood a little while, <hi>Pale,</hi> and <hi>Surpriz'd,</hi> but recovering Himſelf: <hi>Ouy (dit il) nous l'avons envoyée aux Maroquins; &amp; quand il reviendra il nous apportera des Diamands;</hi> In <hi>Eng<g ref="char:EOLhyphen"/>liſh, Yes</hi> (ſays he) <hi>we have ſent him into the</hi> Indies, <hi>and when he comes back again he will bring us Diamonds;</hi> ſpeaking the words <hi>Smiling,</hi> and in a way of <hi>Raillery.</hi> And hereupon, the Wife of <hi>Hobry</hi> and <hi>Young Favet</hi> being about to go away, This Enformant ask'd them <hi>whether they were going?</hi> The Woman made Anſwer, <hi>We are going Home,</hi> ſpeaking of the Houſe where <hi>Hobry</hi> Lodg'd.</p>
+               <p>And further ſaith, That upon <hi>Thurſday above mentiond,</hi> about Eleven or Twelve at Noon, the Mother of This Enformant ſaid to her to This Effect, Here has been This Morning the Wife of <hi>Hobry,</hi> who tells me, that <hi>ſhe is now got quit of the Rogue her Husband; and that ſhe hus ſent him away to the</hi> Indies. This Enformants Mother Asking her <hi>How ſhe had ſent him away to the</hi> Indies? She ſaid, That <hi>they had made him Drunk with Brandy, and
+<pb n="16" facs="tcp:102351:11"/> put him on Board, and that the</hi> Elder Favet <hi>had lent her</hi> Two Guinneas <hi>to give to the People to ſay Nothing of it. Hobry</hi> Purſuing her diſcourſe how ſhe had told her <hi>Two Coſins,</hi> that ſhe ſhould be the ruine of them in Taking their Money, To which ſhe receiv'd for Anſwer, That <hi>if ſhe got but quit of her Husband, they could earn more Money.</hi>
+               </p>
+               <p>And This Enformant calleth alſo to Mind that ſhe hath heard the ſaid <hi>Hobry</hi> ſay, ſeveral Months ſince, many Times, That <hi>ſhe would be the Death of her Husband, and that ſhe had it ſeveral times in her Thoughts to Strangle him, and put him into a Common-ſhore, near at hand to her Lodgings, but that it was too Little, for ſhe had Meaſur'd it;</hi> and ſhe was Reſolv'd to <hi>Cut him in Pieces,</hi> or to <hi>Diſpatch him ſome other way.</hi>
+               </p>
+               <closer>
+                  <signed>Mari-Anne Rippault.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupradicto Coram Me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="17" facs="tcp:102351:11"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Joan Rippault,</hi> of the Pariſh of St. <hi>Giles's in the Fields,</hi> taken upon Oath, <hi>Feb. 20. 1687/8.</hi>
+               </head>
+               <p>SAith, That ſhe hath many times heard the Wife of <hi>Dennis Hobry</hi> exclaim againſt her Husband, calling him Drunk<g ref="char:EOLhyphen"/>ard, and Lewd Names; and that within the Compaſs of Five or Six Months laſt paſt, ſhe this Enformant hath heard the ſaid wife of <hi>Hobry,</hi> ſay (meaning her Husband) that <hi>ſhe would kill him,</hi> and that <hi>ſhe has had it in her head to Kill him, and caſt him, dans l'Eſgouſt,</hi> that is to ſay, in <hi>the Common Shore; but that upon meaſuring the Paſſage, ſhe found it was too narrow for him.</hi>
+               </p>
+               <p>And ſaith, that the ſaid Wife of <hi>Hobry</hi> telling this Enfor<g ref="char:EOLhyphen"/>mant at a time uncertain, (but <hi>ſince</hi> Hobry<hi>'s laſt Return</hi> out of <hi>France</hi>) that the <hi>Villain her Husband was now return'd out of</hi> France, <hi>and that her</hi> Little Couſins (ſpeaking of the Two Brothers that paſs'd under the Name of <hi>Favet) were very much troubled at it;</hi> but ſaying withal, (ſpeaking of the Two Brothers) <hi>We have been adviſing together how to get rid of him.</hi>
+               </p>
+               <p>And ſaith, that upon <hi>Thurſday,</hi> in the Week when the Body was ſaid to be found, the ſaid Wife of <hi>Hobry</hi> came alone to this Enformant in a Low Chamber, ſaying after this manner to her, <hi>My Daughter has bid me come and tell you ſomething concerning my Husband;</hi> This Enformant asking what it was; the other replyed, <hi>I have ſent my Hus<g ref="char:EOLhyphen"/>band to the</hi> Indies, <hi>and I have given</hi> Fifty Guinnea's <hi>to put him aboard, and to ſend him away:</hi> This Enformant asking her if ſhe had ſo much Money; ſhe replyed, <hi>Yes, ſhe had
+<pb n="18" facs="tcp:102351:12"/> gathered it together,</hi> ſaying over and above, <hi>That a Kinſ<g ref="char:EOLhyphen"/>man of Hobry had help'd to make him drunk, and ſo got him a<g ref="char:EOLhyphen"/>board: And without the help of</hi> Hobry's Kinſman, <hi>I could have done nothing. I borrow'd two</hi> Guinnea's <hi>more of</hi> Le Grand Couſin <hi>for People to keep</hi> Hobry <hi>quiet in the Ship if he ſhould be trou<g ref="char:EOLhyphen"/>bleſom;</hi> purſuing this Diſcourſe, and ſaying further, that <hi>ſhe told the Two Brothers, this drawing of Mony from them would be their Ruine:</hi> To which one of them reply'd, <hi>Get quit of your Husband, and we can get more Mony.</hi>
+               </p>
+               <p>And further, that the Wife of <hi>Hobry</hi> came toward the Evening to the Lodgings of this Enformant, with the <hi>Young<g ref="char:EOLhyphen"/>er Favet</hi> in her Company, to whom the Daughter of this Enformant ſaid ſomewhat to this purpoſe, <hi>Well! You have got clear of your Husband then?</hi> The Wife replying, <hi>Yes, we have ſent him for the</hi> Indies, <hi>and the</hi> Younger Favet, <hi>ſaying thereupon, We have ſent him to the</hi> Maroquins <hi>to look for</hi> Di<g ref="char:EOLhyphen"/>amonds.</p>
+               <closer>
+                  <signed>Jane Rippault.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno Supradict. co<g ref="char:EOLhyphen"/>ram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="19" facs="tcp:102351:12"/>
+               <head>The Enformation of <hi>Claude Poullet</hi> of <hi>Long-Acre, Enammel-Painter,</hi> taken upon Oath, <hi>Feb. 20. 1687/8.</hi>
+               </head>
+               <p>
+                  <hi>SAith, That about five Months ſince, this Enformant heard the Wife of</hi> Hobry <hi>talking Bitterly againſt her Husband to</hi> Mademoiſelle Mary-Anne Rippault, <hi>among other matters, in Words to this Effect,</hi> I have had it ſeveral Times in my Thought, to Strangle that Husband of mine, and to throw him into the <hi>Common-Shore,</hi> before my Door; but I have taken meaſure of the Place; and I find it is too little to receive the Body, unleſs I ſhould cut him all to pieces: But I muſt do it ſome other way.</p>
+               <closer>
+                  <signed>
+                     <hi>C.</hi> Poullet.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat. Die &amp; Anno ſu<g ref="char:EOLhyphen"/>pradict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Margaret Vaſal,</hi> of the Pariſh of St. <hi>Anne Weſtminſter,</hi> ta<g ref="char:EOLhyphen"/>ken upon Oath, <hi>Feb. 6. 1687/8.</hi>
+               </head>
+               <p>SAith, That <hi>Yeſterday was Sennight,</hi> Dame <hi>Hobry</hi> a Mid<g ref="char:EOLhyphen"/>wife came after Maſs to the Houſe of this Enformant, be<g ref="char:EOLhyphen"/>ing formerly known to this Enformant, and ask'd to Dine with her: For <hi>ſhe was loth to go home to Dinner, becauſe there was ſome body ſhe had no mind to ſee.</hi> She ſtaid Dinner,
+<pb n="20" facs="tcp:102351:13"/> and told this Enformant that ſhe was going into the Coun<g ref="char:EOLhyphen"/>try the next day to lay a Lady of Quality; this Enformant telling her ſhe would loſe thoſe in the Town that had occa<g ref="char:EOLhyphen"/>ſion to make uſe of Her: <hi>Hobry</hi> Anſwering, That would make amends for all. <hi>Hobry</hi> had at that Time a little <hi>Office of our Bleſſed Lady in her hand,</hi> and thereupon told her this Enformant, that it was the firſt Preſent that <hi>Hobry</hi> had made her; upon which Words ſhe fetch'd a Deep Sigh; and told this Enformant, that her Husband had threaten'd to Diſpatch her in Three or Four days.</p>
+               <p>After this, <hi>Ah my dear Lady,</hi> ſays ſhe, <hi>I know you well enough to be a Perſon that I may truſt my Life in your hands.</hi> This Enformant asking her immediately, <hi>How your Life? Pray will you explain your ſelf; You Fright me: What's the mat<g ref="char:EOLhyphen"/>ter? Well,</hi> ſays <hi>Hobry, <g ref="char:V">Ʋ</g>pon pain of Eternal Damnation, lift up your hand, and promiſe you'l never diſcover it, but keep it as ſecret as if'twere under the ſeal of Confeſſion:</hi> And fetching a deep Sigh, <hi>I have murther'd that miſerable man,</hi> ſhe cry'd. This Enformant calling out to her, <hi>Miſerable Wretch, what have you done,</hi> and bid her be gone; <hi>Hobry</hi> begging Advice what ſhe ſhould do; this Enformant bad her <hi>be gone; ſhe would have nothing to do with her; Hobry</hi> crying out, <hi>She was Loſt, She was mad,</hi> and other like Words of Deſperation; this En<g ref="char:EOLhyphen"/>formant ſeeming not to believe her: <hi>Hobry</hi> told her, that ſhe had ſtrangled him with his Crevat.</p>
+               <p>
+                  <hi>Hobry</hi> told this Enformant further, that the Landlady of the Houſe came into her Chamber, and ask'd if it were not a Shame that her Husband ſhould be abed at that time of day? <hi>Hobry</hi> telling the Landlady that he had been out Late, and bid her let him lye a-ſleep, whereupon the Landlady went away.</p>
+               <pb n="21" facs="tcp:102351:13"/>
+               <p>And further; <hi>Hobry</hi> told this Enformant, that ſhe had declar'd the Murther to her <hi>Two Couſins,</hi> and begg'd their help to carry him away; but they told her that for the whole World they would have nothing to do in't: And up<g ref="char:EOLhyphen"/>on this, <hi>Hobry</hi> went away crying.</p>
+               <p>And that upon <hi>Thurſday Laſt,</hi> about Nine in the Morning, <hi>Hobry</hi> came again to this Enformant, and this Enformant ſpake ſoftly to her, <hi>O thou wretched Creature, art thou not con<g ref="char:EOLhyphen"/>tent to murther thy Husband, without cutting him to pieces! Ho<g ref="char:EOLhyphen"/>bry</hi> replying to this Enformant, that <hi>She had not cut him to pieces.</hi> And in Proof of it, ſhe ſaid, That <hi>This was a Lord, with ſeveral Rings upon his Finger, and his Head was found in the Park:</hi> But ſhe ſaid further, that <hi>ſhe had caus'd him to be Bury'd by two of his</hi> Particular Friends; <hi>and that the doing of it coſt her Fifty Pieces, and there was an End of him: but for her own Part, ſhe was a loſt Woman.</hi>
+               </p>
+               <p>This Enformant told her, 'twas impoſſible for her to Bu<g ref="char:EOLhyphen"/>ry her Husband, and no body to take Notice of it, for ſhe could not carry him out alone; But ſhe ſaid <hi>Yes,</hi> he was Buryed, and that in Three or Four days ſhe would tell her where he was Bury'd.</p>
+               <closer>
+                  <signed>Margaret Vaſal.</signed>
+               </closer>
+               <postscript>
+                  <p>Jarat. Die &amp; Anno ſu<g ref="char:EOLhyphen"/>pradict. coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="22" facs="tcp:102351:14"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>James Lorraine,</hi> of the Pariſh of St. <hi>James Weſtminſter,</hi> Sur<g ref="char:EOLhyphen"/>geon, taken upon Oath, <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>SAith, That about Three Months ſince, this Enformant had ſome Diſcourſe with a <hi>French</hi> Midwife, and ask'd her what was become of her Husband? She made Anſwer, ſhe would give a good deal to have him Drown'd or Kill'd.</p>
+               <p>And further, that on this <hi>Laſt Wedneſday</hi> he went to the Houſe where the ſaid Midwife Lodg'd, and miſſing of her Husband, left a Chalk upon the Door, of Direction, where <hi>Dennis Hobry</hi> might come to this Enformant; and ac<g ref="char:EOLhyphen"/>cording to the Appointment of the above-ſaid Direction up<g ref="char:EOLhyphen"/>on the Door, the Wife of the ſaid <hi>Hobry</hi> came to this Enfor<g ref="char:EOLhyphen"/>mant, of whom the ſaid Enformant enquir'd, <hi>What was be<g ref="char:EOLhyphen"/>come of her Husband?</hi> Who Anſwered, That he was affraid of an Arreſt, and durſt not ſhew himſelf: This Enformant Anſwering, that he would ſhew him where he ſhould be ſafe, and try to make up the Bus'neſs; the ſaid Midwife An<g ref="char:EOLhyphen"/>ſwering, that ſhe would bring him Word the next morning. On <hi>Thurſday morning</hi> (Yeſterday) the ſaid Enformant met her at <hi>Chappel,</hi> who asking again after her Husband, received for Anſwer, That <hi>he was gone to the</hi> Indies, <hi>and he ſhould never ſee him more.</hi>
+               </p>
+               <p>This Enformant ask'd her this Morning before two of his Majeſties Juſtices of Peace, what was become of her Hus<g ref="char:EOLhyphen"/>band? ſhe ſaid, <hi>She could not tell him;</hi> but <hi>Such a One</hi> would give him a particular Account of it, mentioning a Perſon, whom this Enformant took to be <hi>Yard.</hi>
+               </p>
+               <pb n="23" facs="tcp:102351:14"/>
+               <p>And ſaith, That this Enformant being Interrogated if he knew any Mark about the Body of <hi>Dennis Hobry,</hi> to Di<g ref="char:EOLhyphen"/>ſtinguiſh him particularly from another Man? This Enfor<g ref="char:EOLhyphen"/>mant ſaith, That he remembreth that <hi>he had a Scar upon One Hand,</hi> and ſince the Delivering of the ſaid Evidence, He This Enformant hath been to ſee the ſaid Body and Limbs, where they lay Expos'd, and told Sir <hi>Robert Clark,</hi> one of his Majeſties Juſtices of the Peace, with the Officer that ſhew'd the Body, and other Perſons that were there Preſent, that if <hi>This</hi> was the <hi>Body,</hi> and <hi>Thoſe</hi> the <hi>Limbs</hi> of <hi>Dennis Hobry,</hi> there would be found a <hi>Scar</hi> upon ſuch a Part of the Hand; and upon the Sight of the Limbs, there was a Scar to be ſeen upon the right Hand, as This Enformant had told Sir <hi>Robert Clark</hi> and Others before, who likewiſe ſaw the ſaid Scar with This Enformant.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Pet. Lugg.</hi>
+                        </item>
+                        <item>
+                           <hi>J. Lorraine.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict. Coram Nobis</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Anthony Matſon,</hi> Beadle of the <hi>Dutchy-Liberty</hi> in the <hi>Strand.</hi>
+               </head>
+               <p>SAith, That by the order of Mr. <hi>Thomas Harris,</hi> High Conſtable of the Hundred of <hi>Oſwalſton,</hi> This Enfor<g ref="char:EOLhyphen"/>mant cauſed <hi>Night-Men</hi> to come and ſearch the Houſe of Office belonging to the Houſe of Mr. <hi>deFreſneau,</hi> near <hi>Exe<g ref="char:EOLhyphen"/>ter-Change,</hi> where this Enformant attended accordingly; and ſaw the taking up of a Head out of the ſaid Houſe of Office, in a Cloth, about a Fortnight ſince; which This Enformant Carry'd to his own Houſe; and there Caus'd
+<pb n="24" facs="tcp:102351:15"/> it to be Waſh'd, and afterward by the order of the High-Conſtable Carry'd it to a <hi>Body</hi> at St. <hi>Giles's Bone-Houſe.</hi> This Enformant having had the ſaid <hi>Head</hi> in his Cuſtody all the While, from the taking it up, to the De<g ref="char:EOLhyphen"/>livery of it to the ſaid <hi>Bone-Houſe.</hi>
+               </p>
+               <closer>
+                  <signed>Ant. Matſon.</signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict' Coram Me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Enformation of <hi>Giles Malvault</hi> &amp;c. And <hi>Mary Hope,</hi> Taken upon Oath, <hi>Feb. 6. 1687/8.</hi>
+               </head>
+               <p>THEY ſay Joyntly and Severally, that having been up at St. <hi>Giles's Church</hi> together, to ſee the Head of a Man that lyes there Expoſed; They Theſe Enformants Declare that they knew the Perſon of <hi>Denis Hobry,</hi> Re<g ref="char:EOLhyphen"/>puted the Husband of a <hi>French Midwife,</hi> and that they <hi>Know That</hi> to have been the <hi>Head</hi> and <hi>Face</hi> of <hi>Denis Ho<g ref="char:EOLhyphen"/>bry.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Giles Malvault.</hi>
+                        </item>
+                        <item>The Mark of cH <hi>Mary Hope.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Jurat' Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict' Coram Me</p>
+                  <closer>
+                     <signed>R. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="25" facs="tcp:102351:15"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Examination of <hi>Mary</hi> the Wife of <hi>Lewis Pottron</hi> of the Pariſh of S. <hi>Giles</hi>'s <hi>in the Fields,</hi> taken <hi>Feb. 3. 1687/8.</hi>
+               </head>
+               <p>THat ſhe, this Examinate, was at the Houſe of Mr. <hi>Hope,</hi> where her Father and her Mother lodged, upon <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> laſt, and her Mother likewiſe in Company, ſhe and this Examinate going thither together: And that this In<g ref="char:EOLhyphen"/>formant went thither to pay ſome Money owing for Rent, there being Twelve Shillings due, and Eight Shillings paid. And this Examinate ſaith, That ſhe was not there Yeſter<g ref="char:EOLhyphen"/>day.</p>
+               <p>And ſaith, That this Examinate went to the Houſe of the ſaid Mr. <hi>Hope,</hi> upon <hi>Monday</hi> laſt in the Morning, and that her only Buſineſs was to ſee her Mother, and that there was no Diſcourſe of her Father.</p>
+               <p>And ſaith, That upon <hi>Tueſday,</hi> the Mother of this Ex<g ref="char:EOLhyphen"/>aminate, was about Noon, (as this Examinate remembers) at the Lodgings of this Examinate, telling this Examinate, That there was a great Noiſe in the Street about a Dead Bo<g ref="char:EOLhyphen"/>dy that was found, ſaying, It was a ſad thing; and this Examinate anſwered, That ſhe had heard of it too: And that this is all the Examinate remembers of the ſaid Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+               <p>And ſaith, being interrogated, If ſhe, this Examinate, ever ſpake of her Husband's allowing Thirty Shillings to her Father-in-Law <hi>Hobry,</hi> to buy Cloaths, or to that Effect, and that if the Mony were loſt, it would be a good Rid<g ref="char:EOLhyphen"/>dance. This Examinate ſaith, That ſhe ſaid nothing to that Purpoſe.</p>
+               <p>And this Examinate being asked, if ſhe gave her Opinion for her Mother not to appear 'til her Father-in-Law was
+<pb n="26" facs="tcp:102351:16"/> gone; This Examinate poſitively denyeth her having ſaid any thing to that Purpoſe.</p>
+               <p>And ſaith, being interrogated, When ſhe laſt ſaw her Father at his Lodgings at Mr. <hi>Hopes,</hi> That it was upon <hi>Sun<g ref="char:EOLhyphen"/>day</hi> laſt was Sennight.</p>
+               <p>And being interrogated, If ever ſhe ſaw her Mother in any other Lodging when ſhe lay from Home; ſaith, That ſhe hath not heard where her Mother Lodged, at any time ſince her lodging with Mrs <hi>Hope;</hi> but only once or twice, as ſhe believeth, in <hi>Phoenix-Alley.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>The Mark of</hi> X Mary Pottron.</signed>
+               </closer>
+               <postscript>
+                  <p>Die &amp; Anno ſupra<g ref="char:EOLhyphen"/>dict' coram me,</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The further Examination of <hi>Mary Pot<g ref="char:EOLhyphen"/>tron, Feb. 5. 1687/8.</hi> Saith,</head>
+               <p>THat this Examinate hath ſeveral times heard her Fa<g ref="char:EOLhyphen"/>ther-in-law <hi>Denis Hobry,</hi> ſay to this Purpoſe; That <hi>he would be the Death of this Informant's Mother:</hi> And hath likewiſe heard her Mother ſay, That <hi>Denis Hobry</hi> had of<g ref="char:EOLhyphen"/>ten threatned it; but that this Examinate never heard her Mother ſpeak of any purpoſe ſhe had to kill her Huſ<g ref="char:EOLhyphen"/>band.</p>
+               <p>And ſaith, That this Examinate hath not ſeen the Dead Body of her Father; neither was ſhe any ways Conſenting or Privy to any Violence upon him; but that ſhe hath ob<g ref="char:EOLhyphen"/>ſerved her Mother to be very much Diſordered in her Mind for about a Week laſt paſt. And that ſhe, this Examinate,
+<pb n="27" facs="tcp:102351:16"/> asking her Mother what ſhe ailed, received for Anſwer <hi>She was not well.</hi>
+               </p>
+               <p>And being interrogated, If ſhe, this Examinate, know<g ref="char:EOLhyphen"/>eth one <hi>Matthew Darney</hi> a Joyner, or one <hi>David Foſter</hi> a Joyner alſo: She, this Examinate, maketh anſwer, That ſhe knoweth neither the One nor the Other.</p>
+               <closer>
+                  <signed>
+                     <hi>The Mark of</hi> X Mary Pottron.</signed>
+               </closer>
+               <postscript>
+                  <p>Capt' Die. &amp; Anno, ſupradict' coram me,</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Examination of <hi>John Deſermeau,</hi> Servant to <hi>Martin Dubois,</hi> of the Pariſh of S. <hi>Clement's Danes,</hi> Wea<g ref="char:EOLhyphen"/>ver, <hi>Feb. 3. 1687/8.</hi> Saith,</head>
+               <p>THat upon <hi>Monday</hi> Morning laſt, the Mother of this Examinate came to his Maſter to have him Home with her, to ſpeak to one that ſhe could not underſtand, this Examinates Mother not underſtanding <hi>Engliſh;</hi> and about Nine or Ten a Clock, this Examinate went with his Mother to her Lodgings; but the Man ſhe ſpake of did not come.</p>
+               <p>This Examinate ſtayed at his Mothers Lodgings about half an Hour, and went then to <hi>Covent Garden,</hi> where this Examinate ſtaid 'til Seven or Eight a Clock at Night, where he ſpake to no Body; but about that Hour returned Home to his Mothers, and ſaw his Mother, and ſtaid about a quar<g ref="char:EOLhyphen"/>ter of an Hour, and then went and lay under a Stall over againſt the <hi>Roſe Tavern</hi> all Night. About Seven a Clock
+<pb n="28" facs="tcp:102351:17"/> in the Morning, he went again to his Mothers, where he ſaw his Mother, and ſaw his Siſter alſo that Morning, meet<g ref="char:EOLhyphen"/>ing her in <hi>New-Street</hi> in the <hi>Strand.</hi>
+               </p>
+               <closer/>
+               <postscript>
+                  <p>Capt' Die &amp; Anno ſupradict' coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The further Examination of <hi>John De<g ref="char:EOLhyphen"/>ſermeau,</hi> Servant to <hi>Martin Dubois,</hi> &amp;c. <hi>Feb. 5. 1687/8.</hi> Saith,</head>
+               <p>THat the Mother of this Examinate <hi>(Mary Hobry)</hi> hath ſaid ſeveral times, That ſhe was afraid her Husband would Kill her, and that he Threatned her ſeveral mornings, when he had been all night at a Debauch.</p>
+               <p>And that upon <hi>Monday</hi> laſt, the Mother of this Exami<g ref="char:EOLhyphen"/>nate fetched him from his Maſter home to her Lodgings, where ſhe told this Informant that his Father was dead, and he muſt help to carry him away; ſhewing the Body (as it lay upon the Bed) to this Examinate; who ſaid he would not help her, and ask'd her, <hi>why ſhe did ſuch a Thing?</hi> Whereupon ſhe ſaid to this Examinate, as at other times, That ſhe was continually in fear of him, and asked this Examinate what ſhe ſhould do with him; and hereupon this Examinate offer'd to go away, but ſhe hindred him from going out, and then ſhe would have this Examinate help her to Quarter the Body, which this Examinate refuſed, and did not ſo much as touch it, but went away into the the next Room, his Mother ſaying <hi>ſhe would do it her ſelf
+<pb n="29" facs="tcp:102351:17"/> then;</hi> ſo ſhe took a Knife, and afterwards brought the <hi>Head</hi> into t'other Room, where this Examinate was: Going back again, and cutting off the <hi>Legs,</hi> the <hi>Arms,</hi> and the <hi>Thighs,</hi> and bringing them into the Room one after another; this Examinate preſſing to be gone, but ſhe bad him ſtay, and not leave her alone. After this ſhe put the Body in a Rag, and took it up with her Peticoat, and, after ſeveral Refuſals to help, and to go along with her; This Examinate went with her at laſt, ſhe ſaying ſhe was loth to go alone, upon which ſhe went away with the Body into <hi>Parker's-Lane,</hi> and there threw it behind a Dunghill.</p>
+               <p>After ſhe was rid of the <hi>Body,</hi> ſhe went back and took the <hi>Thighs,</hi> and carried them to the <hi>Savoy,</hi> and put them into the Houſe-of-Office, and from thence returning, ſhe carried the <hi>Legs</hi> and <hi>Arms</hi> to the ſame place, this Exami<g ref="char:EOLhyphen"/>nate going along with her.</p>
+               <p>And after that, ſhe went back for the <hi>Head,</hi> and pro<g ref="char:EOLhyphen"/>pounded the putting of it into a Common-Houſe-of Office; this Examinate telling her, that he was afraid to meddle with it, his Mother replying, That if ſhe ſhould be taken, he would be in no danger, becauſe he did not touch it. From thence ſhe went back again and went to Bed.</p>
+               <p>This Examinate being Interrogated, Whether he ever heard how his own Father came by his Death, and whe<g ref="char:EOLhyphen"/>ther his Mother had ever been Queſtion'd about it? He maketh Anſwer, That he hath heard it ſaid by ſome, that he died of a Wound; by others, that he died of a Natural Death; but never heard any thing of it Charg'd upon his Mother.</p>
+               <p>And ſaith, That upon <hi>Monday</hi> laſt this Examinate asked his Mother if his Siſter knew of his Fathers being Dead, who made Anſwer, Yes ſhe did: And ſaith, That he knoweth not any ſuch Perſon as <hi>Matthew Darney,</hi> or <hi>David Foſter.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>The Mark of</hi> X John Deſermeau.</signed>
+               </closer>
+               <postscript>
+                  <p>Capt' Die &amp; Anno ſupradict' coram me</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="30" facs="tcp:102351:18"/>
+               <opener>
+                  <dateline>Midd. &amp; Weſt.</dateline>
+               </opener>
+               <head>The Examination of <hi>Mary Hobry,</hi> of the Pariſh of S. <hi>Martins in the Fields,</hi> taken <hi>Feb. 4. 1687/8.</hi> Saith,</head>
+               <p>THat this Examinate was Married to <hi>Denis Hobry</hi> about four years ſince; and that after the Solemn Marriage of the Church, he the ſaid <hi>Denis Hobry,</hi> with Curſes and Imprecations deny'd the ſaid Marriage, and and caſt all ſort of Infamous Reproaches upon this Exami<g ref="char:EOLhyphen"/>nate: This being the occaſion of all his Outrages, becauſe this Examinate would not ſubmit to a compliance with him in Villanies contrary to Nature. In the miſerable Condi<g ref="char:EOLhyphen"/>tion above ſpoken of, this Examinate liv'd for the ſpace of Three Months, under Beatings and Revilings, going every day in danger of her Life.</p>
+               <p>This Examinate being brought to Deſperation by this miſerable Uſage, retir'd into a Private Chamber, and left him, living very cloſe for a matter of Four Months, when her ſaid Husband going into <hi>France,</hi> ſhe appeared abroad again, and followed her Affairs. This continued for about Two Years, he being moſt of the time in <hi>France.</hi>
+               </p>
+               <p>After this Examinate had been Two years Married, and Suffer'd, and Parted as above, her ſaid Husband came Three or Four times to her, making large Promiſes how good a Husband he would be, and how kindly he would live with her; and in fine, deſir'd that by all means they might live together again, declaring that he had Confeſs'd his Sins to Almighty God, and that he would be another Man. To which this Examinate yielded, upon Condition that he ſhould declare the ſame before a Prieſt and Two Witneſſes, and own, That this Examinate was his Lawful Wife: which Declaration was Made and Sign'd before Father <hi>Gaſpar,</hi> and Enter'd in Writing upon a Regiſter.</p>
+               <pb n="31" facs="tcp:102351:18"/>
+               <p>This Examinate had not been above two or three days with him again, before he began to uſe her as formerly, and continued his Ill-uſage for a matter of two Months upon the ſame Subject and Occaſion as formerly. About that time he went away into <hi>France,</hi> and carried all away that he could, to the wearing Cloaths and Neceſſaries of this Examinate. After Three Months ſtay, he returned again, and upon the ſame Inſtances and Promiſes as before, this Examinate ſubmitted to accompany with him again: And this way of Life this Examinate led from time to time, till this laſt unhappy Separation, her Husband continuing in the ſame way ſtill, of Leaving her, and Coming again, and uſing her Ill.</p>
+               <p>This Examinate finding herſelf in this hopeleſs Condition, and under frequent Temptations of putting ſome violent end to her Misfortunes, ſhe rather choſe to make Tryal if ſhe could prevail upon him to agree to a Final Separation, and preſt it upon him ſeveral times with great Earneſtneſs; but he ſtill refuſed it with Outrages of Language and Acti<g ref="char:EOLhyphen"/>ons, telling this Examinate he would be the Ruine of her.</p>
+               <p>This Informant finding herſelf without Remedy, in a Diſtraction of Thoughts, and under the Affliction of Bo<g ref="char:EOLhyphen"/>dily Diſtempers, contracted by her ſaid Husband's diſſo<g ref="char:EOLhyphen"/>lute Courſe of Life, her Frailty was no longer able to reſiſt the Temptations of dangerous Thoughts; ſometimes this Examinate was thinking to go into ſome other Part of the World and leave him; and other while ſhe was tem<g ref="char:EOLhyphen"/>pted to think of Extremities either upon her Husband or upon Her ſelf; and often told her Husband plainly, That <hi>ſhe would Kill him if he followed that Courſe:</hi> This Examinate having lamented her Condition to others of her acquain<g ref="char:EOLhyphen"/>tance, and telling them ſhe was not able to live this courſe of Life, and that Miſchief would come on't at laſt. But after all theſe dangerous Words and Menaces, this Examinate upon Recollection, bethought her ſelf of the Horridneſs of the Sin, and by God's Grace was diverted from executing ſo wicked a Reſolution.</p>
+               <pb n="32" facs="tcp:102351:19"/>
+               <p>And ſaith, That this Examinate was tranſported about two or three Months ſince, to that degree of Rage and Im<g ref="char:EOLhyphen"/>patience, that ſhe took a Knife once with a Reſolution to Kill her Husband, but retracted and did not go forward with it. And that ſhe took the ſame Deſperate Reſolution again, a matter of fifteen Days after, propoſing both times to do it in the Night; but by the Grace of God ſhe was then again reſtrained.</p>
+               <p>And ſaith, That ſhe this Examinate told her Husband in the Morning, both theſe times, the Reſolution ſhe had taken over Night to Kill him in his Bed; but he made ſlight of it, and told this Examinate ſhe durſt not do it.</p>
+               <p>And ſaith, That on the very Evening before this Exami<g ref="char:EOLhyphen"/>nate's Husband went laſt into <hi>France,</hi> this Examinate ſpake to her Husband to this effect; <hi>Hobry, you are now going into</hi> France, <hi>pray bethink your ſelf and lead a better Life; for when you come back again, if you Treat me as you did formerly, I do not know what Extremities you may Provoke me to.</hi> Where<g ref="char:EOLhyphen"/>upon he promis'd this Examinate with dreadful Oaths, that he would be a good Husband to her.</p>
+               <p>The Husband of this Examinate returned out of <hi>France,</hi> and came to this Informant's Lodgings about three Weeks ſince, when this Informant received him after the follow<g ref="char:EOLhyphen"/>ing manner, ſaying to him, <hi>Hobry, you are welcome, and pray will you change your courſe of Life now, that we may live Comfortably together. Yes</hi> (ſaith he) <hi>upon condition you will put me in Cloaths, and furniſh me with what I want.</hi> (He ha<g ref="char:EOLhyphen"/>ving got Money in <hi>France,</hi> and ſpent it to the laſt Farthing.) This Informant told him ſhe could not ſupply him at that Rate, for Times were hard, and ſhe had much ado to Live and pay Honeſt Debts. This Examinate's Husbands replying to this effect; <hi>If you do not do as I ſay, I will be a worſe Husband to you than ever I was.</hi> This Examinate told him ſhe did not know what ſhe ſhould do with him, for his Barbarous Uſages had made her Mad. And his way was, ſo often as he asked any thing of this Informant that ſhe could not
+<pb n="33" facs="tcp:102351:19"/> ſupply him with, he would abuſe her, and ſay he would make her repent of it. And this Examinate hath been told by one <hi>Yard,</hi> that her Husband ſaid in his hearing, That he would be the Deſtruction of her. This was the Courſe of Life this Examinate led, till this <hi>Thurſday laſt was Sennight;</hi> upon which day this Examinate had no Thought of offering any Violence to her Husband, but went to Bed about her uſual hour, Ten a Clock, leaving the Fore-door open for him when he ſhould come home.</p>
+               <p>About Five in the Morning, the Husband of this Exami<g ref="char:EOLhyphen"/>nate came in, outragiouſly in Choler, and more than half Drunk. This Examinate was a-ſleep, till her Husband Wak'd her with a heavy Blow with his Fiſt upon her Sto<g ref="char:EOLhyphen"/>mach, and ſaid to her, <hi>What! you are Drunk?</hi> This Exa<g ref="char:EOLhyphen"/>minate Anſwering, <hi>No; you are Drunk, you'd never come home at Five a Clock in the Morning elſe; you have been among baſe Company.</hi> He made this Anſwer, <hi>I have been among</hi> Bougres <hi>and Rogues, that have made me Mad, and you ſhall pay for't;</hi> whereupon he gave this Examinate another violent Blow upon the Breaſt: With That, this Examinate turn'd from him, and fell a weeping. And this Examinate declareth in the Preſence of Almighty God, That ſhe had not as yet any Purpoſe or Thoughts of attempting upon his Life.</p>
+               <p>While this Examinate was weeping, her Husband took her in his Arms and Preſs'd her ſo hard, that ſhe could not fetch her Breath, and that the Blood ſtarted out of her Mouth. Immediately upon this, he attempted the Forcing of this Examinate to the moſt Unnatural of Villanies, and acted ſuch a Violence upon her Body in deſpite of all the Op<g ref="char:EOLhyphen"/>poſition that ſhe could make, as forc'd from her a great deal of Blood, this Examinate crying out to her Landlady, who was (as ſhe believes) out of diſtance of hearing her. This Examinate told him, <hi>I will immediately Riſe and Complain to the Neighbours:</hi> Whereupon he took her Forcibly by the Arm, and threw her down upon the Bed, being before ſit<g ref="char:EOLhyphen"/>ing-up
+<pb n="34" facs="tcp:102351:20"/> to riſe; and after this, Bit her like a Dog, <hi>&amp;c.</hi>— this Examinate ſaying to him, <hi>Am I to lead this Life for ever? Yes, and a worſe too, ere it be long, you had beſt look to your ſelf,</hi> and upon theſe words he fell a-ſleep.</p>
+               <p>Upon this Reſpite the Examinate lay in Torments both of Body and of Mind, thinking with her ſelf, <hi>What will become of me? What am I to do! Here am I Threatned to be Mur<g ref="char:EOLhyphen"/>der'd, and I have no way in the World to Deliver my ſelf, but by Beginning with him;</hi> and immediately upon theſe Thoughts, this Examinate ſtarted up and took one of his Garters, which was <hi>de Fiſcelle,</hi> or Pack-thread, put it double about his Neck <hi>et la noua en ſerrant de toute ſa Force,</hi> and ſo tyed it, and drew it as hard as ſhe could, <hi>de ſorte qu'il en eſtoit E<g ref="char:EOLhyphen"/>ſtrangle dans un quart d' heure, ſans beaucoup de Reſiſtance.</hi> Inſomuch that he was Choak'd with it in a Quarter of an Hour, with little reſiſtance. The Body reſted there till <hi>Monday,</hi> only this Examinate took off the Pack-thread within a Quarter of an Hour after his Death; and in hopes that he was not yet Dead, repenting with all her Heart, that ſhe had been guilty of ſuch a Heinous Sin, and try'd Brandy to bring him to Life again.</p>
+               <p>Upon <hi>Monday</hi> Morning, <hi>Jan.</hi> 30. 1687/8. this Examinate went to the Houſe of <hi>Monſieur du Bois,</hi> living in the <hi>Strand,</hi> to deſire him he would give leave for the Son of this Exa<g ref="char:EOLhyphen"/>minate to go home with his Mother, upon occaſion of ſpeak<g ref="char:EOLhyphen"/>ing with an <hi>Engliſh</hi> Man, that this Examinate could not Un<g ref="char:EOLhyphen"/>derſtand, her Son ſpeaking both <hi>French</hi> and <hi>Engliſh:</hi> the Youth being an Apprentice to the ſaid <hi>Dubois,</hi> and of Age, Thirteen Years and an half. This Examinate took her Son with her home to her Lodgings, in Expectation of the <hi>Engliſhman</hi> before ſpoken of, who did not come.</p>
+               <p>This Examinate fetched her Son on purpoſe to have his Aſſiſtance about the conveying away of her Husband's Body; and this Examinate told her Son of a great Cala<g ref="char:EOLhyphen"/>mity that was fallen out; which the Child was very much ſurprized at, and being ſhewed the Body, ready to ſink
+<pb n="35" facs="tcp:102351:20"/> down at the Spectacle. But this Examinate put the Boy to an Oath forty times over, to ſay nothing of it; and he ſwore he would be torn in Pieces firſt: And asked this Ex<g ref="char:EOLhyphen"/>aminate, <hi>Mother, What will you do? ſhift for your ſelf, and go out of the Land, for if you are once taken you'l ne<g ref="char:EOLhyphen"/>ver get off.</hi> This Informant anſwering, She had no Mo<g ref="char:EOLhyphen"/>ny for a Voyage, and ſhe could think of no way better than to cut off the Quarters, and diſperſe the Parts in ſeveral Places, ſo as People ſhould not know whoſe Body it was: Beſides, That ſhe her ſelf could carry them off, and diſ<g ref="char:EOLhyphen"/>poſe of them much better, her Son ſaying, That he was afraid to meddle with the carrying of them.</p>
+               <p>This Examinate hereupon, about Four or Five that Af<g ref="char:EOLhyphen"/>ternoon, having taken a Reſolution of cutting off the Quar<g ref="char:EOLhyphen"/>ters to make it more Portable, took a Knife, and firſt cut off the <hi>Head,</hi> after that the <hi>Arms;</hi> and then the <hi>Thighs,</hi> and laſt the <hi>Leggs,</hi> ſome Drops of Blood coming from the Neck, but very little or none at all from the reſt.</p>
+               <p>The <hi>Quarters</hi> being cut off by Eight in the Evening, or thereabouts, this Examinate bethought her ſelf how to convey them away; and firſt took up the Body which ſhe put into a Piece of Linnen, and carried it before her in her Petticoat: The Examinate paſſed through <hi>Caſtle-Street</hi> into <hi>Drury-Lane,</hi> and thence into <hi>Parker's-Lane,</hi> and ſo among the Dung-hills, and there left it, her Son following, to give notice if any Body came.</p>
+               <p>The <hi>Body</hi> being thus diſpoſed of, this Examinate, with her Son, went back, and took the <hi>Thighs</hi> in a Linnen Cloth; this Examinate carrying them likewiſe, and her Son following in like manner, as before; and this Exami<g ref="char:EOLhyphen"/>nate threw them into a Houſe of Office at the <hi>Savoy,</hi> and immediately went back with her Son again, and fetched the <hi>Leggs</hi> and the <hi>Arms,</hi> her Son following her to the <hi>Sa<g ref="char:EOLhyphen"/>voy</hi> again, and put them alſo into the Houſe of Office.</p>
+               <pb n="36" facs="tcp:102351:21"/>
+               <p>The <hi>Quarters</hi> being carried away, as above, and only the <hi>Head</hi> remaining, this Examinate adviſed with her Son, What they ſhould do with the <hi>Head?</hi> who adviſed her to throw it into the Water: But this Examinate was then afraid it would be found and known: And ſaid, She would rather caſt it into the Houſe of Office of a Friend of hers, meaning <hi>De Freſneau,</hi> a <hi>Fringe-Maker,</hi> over againſt the <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> to which Place ſhe went accordingly, her Son follow<g ref="char:EOLhyphen"/>ing her, and caſt it into the Second Houſe of Office, there being two belonging to the Place.</p>
+               <p>And ſaith, That upon <hi>Tueſday</hi> Morning laſt, <hi>Mary Potter</hi> (or <hi>Pottron</hi>) the Daughter of this Examinate, came to this Examinates Lodgings, and in Diſcourſe ſaid ſomething to this Purpoſe, What is become of <hi>Hobry,</hi> where is he? <hi>Yard</hi> ſays he is gone for the <hi>Indies.</hi> This Examinate made Anſwer, That ſhe had not ſeen him for Four or Five Days. The Examinate put her Daughter off at firſt, but came ſoon after to tell her the Truth of the Matter.</p>
+               <p>And ſaith, That this Examinate, thereupon, told her Daughter the whole Truth of the Matter, as is reported above; her ſaid Daughter ready to fall down at the hearing of it; and tranſported with Aſtoniſhment, asking this Examinate, What they ſhould do to keep it Private; this Examinate charging her to ſay nothing of it; and the Daughter replying; That ſhe would be burned firſt, but that if it were any other Perſon than her Mother, ſhe would diſcover it her ſelf; but ſince her Mother was concerned, ſhe would never open her Lips of it.</p>
+               <p>And this Examinate being interrogated, How it came to paſs that ſhe, this Examinate, being of the Communion of the Church of <hi>Rome,</hi> came to throw the Quarters of her Husband into a Houſe of Office at the <hi>Savoy,</hi> which was a way to bring ſo great a Scandal upon the Religion ſhe profeſſed, by laying the Murther at the Door of the Pro<g ref="char:EOLhyphen"/>feſſors of that Religion? This Examinate maketh Anſwer, That ſhe had no Thoughts in what ſhe did, as to that Mat<g ref="char:EOLhyphen"/>ter,
+<pb n="37" facs="tcp:102351:21"/> more than to part the <hi>Limbs</hi> and the <hi>Body,</hi> and hoped the Water might carry them away.</p>
+               <p>And being interrogated, If any other Perſon whatſoever, beſide the Perſons herein named, was privy to this Pra<g ref="char:EOLhyphen"/>ctice upon her Husband, or aſſiſting to the Conveying away of the <hi>Body;</hi> this Examinate anſwereth, That there was no Perſon privy to the Secret, nor any Perſon aſſiſting to it, beſides the Perſons within mentioned.</p>
+               <closer>
+                  <signed>Jo. Ridley. Mary Hobry.</signed>
+
+
+               </closer>
+               <postscript>
+                  <p>Capt' Die &amp; Anno, ſupradict' coram me,</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>I have heard the Information of Mrs. <hi>Mary Hobry,</hi> conſiſting of Two Sheets and one Page, read in <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> and have ſigned the Papers, and do hereby declare, That I have truly Expounded them in <hi>French</hi> to Mrs. <hi>Mary Hobry,</hi> according to the beſt of my Know<g ref="char:EOLhyphen"/>ledge.</p>
+                  <closer>
+                     <signed>Jo. Ridley.</signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>J'avoue que ce qui eſt cerit ſur ces deux feuilles de Papier, &amp; une page, eſt veritable; ſelon ce que Monſieur <hi>Ridley</hi> me l'a expliquee, en <hi>Francoiſe.</hi>
+                  </p>
+                  <closer>
+                     <signed>Marie Hobry.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="38" facs="tcp:102351:22"/>
+            <head>POSTSCRIPT.</head>
+            <p>HEre's a Juſt and a Punctual Account of all the <hi>Infor<g ref="char:EOLhyphen"/>mations,</hi> in the Cauſe of <hi>Mary Hobry;</hi> and I do here Appeal to the <hi>Informants</hi> themſelves, That I have dealt Candidly and Conſcientiouſly, both in the <hi>Publiſhing</hi> and in the <hi>Taking</hi> of them. Nay, to prevent the uttermoſt Spite of <hi>Envy</hi> and <hi>Calumny,</hi> they had almoſt all of them, as many <hi>Witneſſes</hi> to the <hi>Fairneſs</hi> of them, as the Room would hold, where I took them: And ſo far from <hi>Extorting</hi> any <hi>Evidence,</hi> That the <hi>Mother</hi>'s and the <hi>Son</hi>'s, were pure<g ref="char:EOLhyphen"/>ly <hi>Confeſſion.</hi> The <hi>Woman,</hi> 'tis true, was examined in <hi>Pri<g ref="char:EOLhyphen"/>vate,</hi> for fear of any unſeaſonable Diſcovery of what ſhe might declare: But before I put ſo much as one Queſtion to her, I rendred her ſo particular an Account of the Points in Evidence againſt her, that ſhe gave her ſelf for <hi>Loſt,</hi> without any Hope, either of an <hi>Acquittal,</hi> or of a <hi>Par<g ref="char:EOLhyphen"/>don;</hi> and ſo frankly told me from Point to Point, the whole <hi>Series</hi> of the Narration, as it is here ſet down. But ſtill that which ſtuck with <hi>other</hi> People, ſtuck with <hi>Me:</hi> That is to ſay, How all this could be done without <hi>Compli<g ref="char:EOLhyphen"/>ces.</hi> Now the <hi>Boy</hi>'s Story lay as yet in the <hi>Dark,</hi> and his doubling in his Tale, gave manifeſtly to underſtand, That there was a <hi>Myſtery</hi> ſtill <hi>
+                  <g ref="char:V">Ʋ</g>ndiſcovered.</hi> He <hi>denyed</hi> all upon <hi>Friday.</hi> Upon <hi>Saturday,</hi> his <hi>Mother declared</hi> her ſelf. Up<g ref="char:EOLhyphen"/>on <hi>Sunday</hi> the <hi>Boy denyed all again,</hi> 'till upon the Hint gi<g ref="char:EOLhyphen"/>ven him, of <hi>his dining with his</hi> Mother; her <hi>drawing the Curtain of the Bed,</hi> and <hi>ſhewing him the Body of his Mur<g ref="char:EOLhyphen"/>dered Father,</hi> upon that <hi>Monday</hi> when the <hi>Body</hi> was <hi>quar<g ref="char:EOLhyphen"/>tered;</hi> he fell a <hi>Weeping,</hi> and told an orderly Story, with<g ref="char:EOLhyphen"/>out any Mincing of Matters, from the very Act of <hi>quarter<g ref="char:EOLhyphen"/>ing him,</hi> to the <hi>diſpoſing</hi> of the <hi>Body,</hi> the <hi>Limbs</hi> and the <hi>Head,</hi> into thoſe Places where they were afterwards found. This Relation of his is ſo agreeable to his <hi>Mother</hi>'s, in the
+<pb n="39" facs="tcp:102351:22"/> 
+               <hi>Order</hi> and <hi>Manner</hi> of it, that it is almoſt <hi>impoſſible</hi> to be <hi>Falſe:</hi> And to any one that duly conſiders the <hi>Bulk</hi> and <hi>Weight</hi> of the <hi>Trunk</hi> of an ordinary Man, without either <hi>Head, Arms, Thighs</hi> or <hi>Leggs,</hi> a Woman's carrying ſuch a Burthen in the Truſs of her <hi>Petticoat,</hi> will be found no greater a Wonder, than he ſhall ſee ten times over in <hi>oue Days Walk</hi> betwixt the <hi>Old Exchange</hi> and <hi>Weſtminſter.</hi>
+            </p>
+            <p>In the Womans Story, I have done all the Right that Ho<g ref="char:EOLhyphen"/>neſtly I could to the Compaſſionable Condition of an Un<g ref="char:EOLhyphen"/>happy Wretch, but without Extenuating the <hi>Horror</hi> of the <hi>Wickedneſs.</hi> I have, ſince that time, Enquir'd into the <hi>Humour</hi> and <hi>Character</hi> of the <hi>Husband;</hi> and his Acquain<g ref="char:EOLhyphen"/>ance report him at all hands to have been a <hi>Libertine</hi> and <hi>Debauchee</hi> to the <hi>Higheſt Degree,</hi> but <hi>Drunk</hi> or <hi>Sober,</hi> with<g ref="char:EOLhyphen"/>out any <hi>Malice.</hi> This is, in Fine, an <hi>Impartial Report</hi> of the <hi>Caſe.</hi> It falls to the <hi>Midwife's Lot</hi> to <hi>Suffer Alone,</hi> but if ſhe had ſtood her <hi>Tryal,</hi> ſo that the <hi>Evidence</hi> againſt her had been left to take its Courſe, it would not have gone much better with ſome of her <hi>Companions,</hi> than it did with the <hi>Miſerable Creature her ſelf.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="38" facs="tcp:102351:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="39" facs="tcp:102351:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
